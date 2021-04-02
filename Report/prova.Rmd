@@ -1,0 +1,12 @@
+---
+title: "Note"
+author: "OPBA"
+date: "2/4/2021"
+output: html_document
+---
+
+### 20 b. Riduzione
+Obiettivo dello studio della dimensione del campione non è ottenere il numero corretto di animali da sottoporre a infezione sperimentale, ma è quello di ottenere il minimo numero di animali necessario ad evidenziare "la più piccola differenza clinicamente rilevante" (effect size) tra i due gruppi di trattamento controllando la % di falsi positivi e falsi negativi.
+
+Il ricercatore deve esplicitare formalmente l'ipotesi che intende testare definendo con precisione l'outcome primario e il corrispondente end point, l'ipotesi nulla ed eventualmente quella alternativa se intende procedere con test d'ipotesi di Neyman-Person come strumento inferenziale. 
+
