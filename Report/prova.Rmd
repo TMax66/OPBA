@@ -1,12 +1,65 @@
 ---
-title: "Note"
+title: "Note al progetto di ricerca: Effetto inibitore di LSD1 DDP38003 sull'infezione da _Murine Hepatitis Virus_ (MHV) in modello murino"
 author: "OPBA"
-date: "2/4/2021"
+date: ""
 output: html_document
 ---
 
-### 20 b. Riduzione
+##### 20 b. Riduzione
 Obiettivo dello studio della dimensione del campione non è ottenere il numero corretto di animali da sottoporre a infezione sperimentale, ma è quello di ottenere il minimo numero di animali necessario ad evidenziare "la più piccola differenza clinicamente rilevante" (effect size) tra i due gruppi di trattamento controllando la % di falsi positivi e falsi negativi.
 
-Il ricercatore deve esplicitare formalmente l'ipotesi che intende testare definendo con precisione l'outcome primario e il corrispondente end point, l'ipotesi nulla ed eventualmente quella alternativa se intende procedere con test d'ipotesi di Neyman-Person come strumento inferenziale. 
+Il ricercatore dovrebbe esplicitare formalmente le ipotesi che intende testare definendo con precisione l'outcome primario e il corrispondente end point, l'ipotesi nulla ed eventualmente quella alternativa se intende procedere con i test d'ipotesi di Neyman-Person come strumento inferenziale. 
+
+#### 21. Metodologia e tecnica dell'esperimento
+
+Dal protocollo riportato il ricercatore si pone differenti obiettivi da raggiungere con l'esecuzione di studi sperimentali indipendenti: 
+
+* A. efficacia profilattica; 
+* B. efficacia terapeutica 
+
+* C. un non ben chiaro obiettivo attraverso la somministrazione del trattamento contestualmente all'infezione sperimentale (Malattia precoce ...)
+
+<b>A. Efficacia profilattica</b>  attraverso la somministrazione del trattamento prima dell'infezione sperimentale.
+
+Sebbene nel protocollo  non sia chiaramente definito l'outcome e l'endpoint, da quanto riportato, il ricercatore intende effettuare l'infezione sperimentale attraverso due  distinte modalità di somministrazione al fine di evocare due quadri/sindromi cliniche specifiche:
+
+*  Infezione intranasale che determina la comparsa di una sintomatologia clinica (sindrome da distress respiratorio ARDS)
+*  Infezione intraperitoneale che determina un quadro di epatite acuta paucisintomatica
+
+In entrambi i casi l'outcome sembrerebbe lo "status" di malattia indotto dall'infezione sperimentale e l'endpoint primario la gravità delle lesioni anatomopatologiche misurata mediante variabile politomica su  scala ordinaria da 1 a 3 per le lesioni epatiche e da 0 a 4 per le lesioni polmonari a 5 giorni dall'incoulazione del virus.
+
+Sebbene il protocollo riporti che per l'inoculazione intranasale è atteso lo sviluppo di una sintomatologia (grave) (distree respiratorio), la valutazione di questo quadro sia in termini di comparsa, di tempo di comparsa, e di gravità non è preso in considerazione dal ricercatore come end point , al contrario viene esplicitato che "la sintomatologia non è compresa tra gli endpoint primari dello studio". 
+
+
+Sebbene nel paragrafo 25 viene chiarito che la sindrome respiratoria si limita a "difficoltà di deambulazione, torpore, e arruffamento del pelo", e  " non comporta un livello di sofferenza tale nell'animale da rihcedere un trattamento aggiuntivo..." varrebbe la pena valutare la possibilità di utilizzo della sintomatologia come end point (nel caso di infezione respiratoria) primario in quanto  non essendo  chiaro nel  protocollo la relazione tra gravità dei sintomi clinici e lesioni istopatologiche, cosi come la variabilità dei tempi d'insorgenza dei sintomi clinici e delle lesioni anatomo-patologiche  scelte come end-point primario, non è possibile escludere che la gravità delle lesioni anatomo-patologiche sia tempo-dipendente, per cui si potrebbe verificare la situazione di due soggetti con comparsa del quadro clinico in tempi differenti, quindi una durata della malattia differente con la possibilità di sviluppare a aggravare le lesioni anatomo-patologiche (end-point) differente, tale da includere un soggetto nella categoria moderato/severo (trattamento non efficace) e un altro nella categoria lieve ( trattamento efficace). 
+
+L'obiettivo dello studio è l'efficacia profilattica di DDP38;  il razionale dell'uso di IFN in combinazione con DDP38 giustifica l'uso di animali in un gruppo di trattamento DDP38+IFN ma per poter misurare il vantaggio della combinazione rispetto al trattamento singolo con DDP38 è necessario il confronto tra endpoint dei due gruppi di trattamento per isolare il contributo effettivo dovuto all'IFN rispetto al trattamento con solo DDP38. Non è sufficiente il confronto del gruppo di trattamento DDP38+IFN verso il solo controllo.  L'efficacia di IFN come tale non è l'obiettivo di questo studio è sebbene viene riportato nelle considerazioni statistiche la verifica del confronto IFN-controllo non ne se ne ravvisa l'utilità per il perseguimento dell'obiettivo dello studio. L'eliminazione del gruppo IFN ridurrebbe ulteriormente gli animali da utilizzare nello studio. Il ricercatore dovrebbe esplicitare e supportare con evidenze la necessità di utilizzare un gruppo di trattamento con IFN.
+
+
+Nel protocollo non si fa cenno alle procedure di randomizzazione dei trattamenti. 
+
+
+Al paragrafo 21.2 del protocollo le considerazioni statistiche per la giustificazione del numero di animali sono parzialmente adeguate solo per lo studio profilattico. Secondo il protocollo è atteso nel gruppo di controllo un proporzione di topi con lesioni epatiche moderate/severe  pari  0.80 sulla base di un lavoro di Navas&Weiss del 2003 e per    effetto del trattamento una riduzione della proporzione di topi con lesioni epatiche di 0.7 punti, suggerendo quindi un ampio effect size. Il lavoro di Navas&Weiss è basato su un numero di topi relativamente basso ( 25 topi di ceppi differenti ) da cui deriva che la stima dello 0.8 di topi con lesioni moderate/severe in seguito a infezione sperimentale è molto ampia ( grosso modo 0.3-0.9), questa incertezza si riflette ovviamente anche sulla stima del numero di animali da utilizzare nell'esperimento proposto da un minimo di 4 a un massimo di circa 35 animali per gruppo di trattamento (per un test di confronto tra proporzioni un errore di I tipo = 0.05, e errore II tipo = 0.20). Sulla base di queste considerazioni il ricercatore dovrebbe riformulare l'entità dell'effect size atteso considerando chela più solida giustificazione del numero di animali utilizzato si basa sulla più piccola differenza clinicamente rilevante.
+
+Il ricercatore estende le considerazioni della sample size determinata sull'endpoint "lesioni epatiche" anche alla sperimentazione eseguita con infezione polmonare ignorando come "endpoint" la frequenza della sintomatolgia respiratoria concentrandosi solo sul dato isto-patologico senza però fornire evidenze che questa estensione sia possibile. Qual'è la frequenza delle lesioni respiratorie moderate/severe in topi infettati con MHV ? 
+
+
+<b>B. Efficacia terapeutica</b> In questo caso il protocollo prevede la somministrazione del trattamento dopo due giorni dall'infezione sperimentale praticata sia attraverso l'inoculazione nasale che intraperitoneale come visto nel punto A. 
+
+L'efficacia di un trattamento normalmente si misura attraverso l'assegnazione randomizzata degli animali con la malattia in atto ( dopo aver definito con precisione i criteri d'inclusione) garantendo la distribuzione nei gruppi di trattamento della stessa proporzione di animali con tutto lo spettro di gravità della malattia oltre che dei fattori subsperimentali noti ( età, ceppo, ecc..). Nello studio proposto la malattia non è clinicamente rilevabile quindi non risulta possibile l'inclusione nello studio sulla base di predefiniti criteri clinici. Viene stabilito,  senza fornirne il razionale o letteratura di supporto, di trattare gli animali due giorni dopo l'inoculo infettante, assumendo che a quel tempo "tutti" gli animali avranno sviluppato le lesioni epatiche e polmonari. Secondo però lo stesso protocollo l'infezione sperimentale è in grado di provocare lesioni moderate/severe nell'80% dei topi ( con l'ampia incertezza vista nel punto A).... dopo quanto tempo?? 
+
+Quindi il trattamento  è eseguito alla cieca rispetto alla presenza e  gravità delle lesioni in corso negli animali. Questo aspetto comporta una distorsione dei risultati in termini di efficacia in  quanto analogamente a quanto visto prima nel punto A ( realtivamente al caso dell'inoculo per via intranasale ) è reale il rischio di definire come soggetto "guarito" quei soggetti trattati pur avendo a due giorni dall'infezione lesioni epatiche /respiratorie  nulle o lievi. 
+
+Negli studi di efficacia è sempre auspicabile utilizzare outcome "duri" come ad esempio la % di guarigione , cioè la proporzione di soggetti definiti ammalati al momento del trattamento e che sono guariti ( scomparsa della sintomatologia/lesioni) dopo un adeguato periodo dal trattamento. In questo studio per la natura dell'outcome utilizzato e per le caratteristiche cliniche a seguito dell'infezione sperimentale risulta impossibile misurare adeguatamente l'efficacia terapeutica, è auspicabile quindi limitare lo studio all'efficacia profilattica come discusso nel punto A. 
+
+
+<b>C. Efficacia terapeutica in corso di malattia precoce</b>
+Valgono le stesse considerazioni fatte per il punto B. In questo caso si aggiunge come elemento di "confusione" la somministrazione contemporanea sia del virus che del trattamento. Difatti riproponendo uno studio di tipo profilattico in quanto non essendo presente al momento del trattamento la malattia in corso è plausibile ipotizzare che il meccanismo sottostante di riduzione della frequenza di topi con lesioni epatiche e polmonari sia una "neutralizzazione" del virus mediante il meccanismo riportato nel protocollo prima che questo induca lesioni cellulari e quindi la malattia.
+
+
+### Conclusioni
+
+Per le considerazioni di cui sopra è auspicabile focalizzare lo studio esclusivamente sulla misura dell'efficacia profilattica del trattamento definendo adeguatamente la minima differenza clinicamente rilevante alla luce dell'ampia incertezza della stima riportata in letteratura della frequenza di topi con lesioni epatiche/polmonari.  Si dovrebbe ottenere in questo modo una riduzione complessiva rilevante del numero  di animali utilizzati minimizzando gli errori. Infatti si tratterebbe di condurre uno studio con tre gruppi di trattamento ( Controllo, DDP3 e DDP3+IFN), utilizzando la stima inferiore dell'intervallo di confidenza della stima della frequenza di topi con lesioni moderate/severe pari a 0.3 e stabilendo come clinicamente rilevante che nel gruppo di trattamento a 5 giorni dall'inoculo la frequenza di animali con forma moderata/severa sia pari a 0.1 sono necessari circa 30 animali per gruppo di trattamento ( alpha=0.05, e beta= 0.20) pari a 90 animali in confronto ai 216 previsti dal protocollo.
+
+
 
